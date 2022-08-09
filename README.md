@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @backley93
 - 👀 I’m interested in learning the skills needed to become a fullstack web developer.
-- 🌱 I’m currently learning html and CSS, looking to start on JS soon.
+- 🌱 I’m currently working through The Odin Project, just finished the foundations course and am now onto Ruby on Rails.
 - 💞️ I’m looking to collaborate on nothing yet until I garner more skills.
 - 📫 How to reach me: ...
 
