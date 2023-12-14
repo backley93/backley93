@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @backley93
-- 👀 I’m interested in learning the skills needed to become a fullstack web developer.
-- 🌱 I’m currently working through The Odin Project, just finished the foundations course and am now onto Ruby on Rails.
+- 👀 I’m interested in learning the skills needed to use programming to progress my career.
+- 🌱 I’m currently learning python and SQL, to leverage data to help business make more informed decisions.
 - 💞️ I’m looking to collaborate on nothing yet until I garner more skills.
 - 📫 How to reach me: ...
 
